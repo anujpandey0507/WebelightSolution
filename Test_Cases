@@ -1,0 +1,31 @@
+Feature - Login with mobile Number
+
+Test Case 1- Verify that a user can successfully log in with a valid mobile number and password.
+Test Case 2- Verify that the login fails with an invalid mobile number.
+Test Case 3- Verify that the login fails with an incorrect password.
+Test Case 4- Verify that the login fails when mobile number and password fields are left empty.
+Test Case 5- Verify that input field for mobile number only take 10 digits.
+
+Feature - Chat Page
+
+Test Case 1- Verify that a user can send a message.
+Test Case 2- Verify that a user receive a message.
+Test Case 3- The latest chat should display on the top.
+
+Feature - Image/Video Sharing
+
+Test Case 1- Verify that a user can send an image.
+Test Case 2- While sending image, user only able to select and send image formats files.
+Test Case 3- The sent image should be the same at both sender and receiver end.
+Test Case 4- Verify that a user can receive a image.
+Test Case 5- Verify that a user can send a Video.
+Test Case 6- While sending image, user only able to select and send video formats files.
+Test Case 7- The sent video should be the same at both sender and receiver end.
+Test Case 8- Verify that a user can receive a video.
+Test Case 9- Sent image/ video should be displayed on chat.
+
+Feature - Settings log out
+
+Test case 1- Verify that a user can access the settings page.
+Test Case 2- Verify that in setting, there is a log out option and by using this user can log out.
+Test case 3- Verify that after log out, user redirect to login page.
